@@ -1,0 +1,15 @@
+EXPLICAÇÃO:
+Utilizei o sistema que já estava acostumado de POO, no qual o dentro do
+sistema temos diversas classes para fazer contato com o banco como o 
+usuáriosDAO
+
+IMPORTANTE:
+Foi utilizado IA para a criaçãos das interfaces, como oque era importante
+no trabalho era a questão do CRUD acreditei que não haveria problema no
+seu uso para esse fim, além disso utilizei sua ajuda na mudança de algumas
+partes do código
+
+Caso esteja sendo corrigido antes de resolver meu problema com WIM:
+
+Fiz algumas mudanças de ultima hora e por algum motivo meu computador
+decidiu dizer adeus ao meu WMI, então não consegui fazer esses ultimos teste
